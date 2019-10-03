@@ -20,8 +20,8 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td>SAFe Transition FAQ</td>
-    <td>This document provides answers to many of the frequently asked questions (FAQ) we've received around the SAFe transition.</td>
+    <td><a href="https://docs.google.com/document/d/1_jN-4_YjhjD--1viiOV66EE5OZpq9NHfvtyx19M2DEA/edit#">SAFe Transition FAQ</a> </td>
+   <td>This document provides answers to many of the frequently asked questions (FAQ) we've received around the SAFe transition.</td>
     <td></td>
   </tr>
   <tr>
