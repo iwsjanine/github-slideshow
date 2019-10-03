@@ -6,7 +6,7 @@ permalink: /safe-transition:-key-resources/
 source-id: 1GChMLmmKWswSg37QHhKZHkk4_Yvw6I6nSB1cVHD_8Lw
 published: true
 ---
-SAFe Transition: Key Resources
+#SAFe Transition: Key Resources
 
 <table>
   <tr>
@@ -15,7 +15,7 @@ SAFe Transition: Key Resources
     <td></td>
   </tr>
   <tr>
-    <td>CEO Address</td>
+    <td><a href="https://www.youtube.com/watch?v=KSP_brzhGEo&amp=&feature=youtu.be">CEO Address</a> </td>
     <td>This customer-facing video explains the reasoning behind the change and the benefits this approach offers.</td>
     <td></td>
   </tr>
