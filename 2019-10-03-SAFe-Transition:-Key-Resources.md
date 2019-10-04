@@ -15,17 +15,17 @@ published: true
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://www.youtube.com/watch?v=KSP_brzhGEo&amp=&feature=youtu.be">CEO Address</a> </td>
+    <td><a href="https://www.youtube.com/watch?v=KSP_brzhGEo&amp=&feature=youtu.be">CEO Address</a></td>
     <td>This customer-facing video explains the reasoning behind the change and the benefits this approach offers.</td>
     <td></td>
   </tr>
   <tr>
-    <td><a href="https://docs.google.com/document/d/1_jN-4_YjhjD--1viiOV66EE5OZpq9NHfvtyx19M2DEA/edit#">SAFe Transition FAQ</a> </td>
+    <td><a href="https://docs.google.com/document/d/1_jN-4_YjhjD--1viiOV66EE5OZpq9NHfvtyx19M2DEA/edit#">SAFe Transition FAQ</a></td>
    <td>This document provides answers to many of the frequently asked questions (FAQ) we've received around the SAFe transition.</td>
     <td></td>
   </tr>
   <tr>
-    <td<ahref="https://docs.google.com/document/d/17_jWgyEo2_sPYRoMyISYzVT0Av2hljZaDwlCs5OXHJ0/edit">Key Dates and Events</a></td>
+    <td<ahref="https://docs.google.com/document/d/17_jWgyEo2_sPYRoMyISYzVT0Av2hljZaDwlCs5OXHJ0/edit">Key Dates and Events</a>   </td>
     <td>This document outlines the key actions you can expect in the upcoming weeks as we make the transition to SAFe.</td>
     <td></td>
   </tr>
