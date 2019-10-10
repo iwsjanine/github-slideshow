@@ -6,7 +6,7 @@ permalink: /fnol-step-3--loss-details/
 source-id: 1sZpQcsbDSHZA7XVGZ2Eo8XEbiC0PeHW3dva-1BXhPtg
 published: true
 ---
-# FNOL Step 3 - Loss Details
+# FNOL step 3 - loss details
 
  The **Loss Details** screen allows users to add detailed information to the data already recorded. 
 
