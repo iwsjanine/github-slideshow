@@ -18,7 +18,7 @@ The first step is to identify the insured vehicle.
 
 * A vehicle that exists in the system. Selecting this option will open the **insured vehicle** dialog. Follow the instructions in the i[nsured vehicle flow](https://docs.google.com/document/d/13MI9WLLQKg_NRnLtKnYQpB8nJpiWyODKH1EMnpBRTxs/edit#) topic. 
 
-* **Add Non-Listed Vehicle**. Selecting this option will open the **add non-listed vehicle **dialog. Follow the instructions in the n[on-listed vehicle flow](https://docs.google.com/document/d/15buMOj2O9vkgefoafkVrqMR_wINVQciMEmaomTZkjzk/edit) topic. 
+* **Add Non-Listed Vehicle**. Selecting this option will open the **add non-listed vehicle** dialog. Follow the instructions in the n[on-listed vehicle flow](https://docs.google.com/document/d/15buMOj2O9vkgefoafkVrqMR_wINVQciMEmaomTZkjzk/edit) topic. 
 
 * None. Selecting this option will require no further information. Click **Continue** to proceed to the next screen. 
 
