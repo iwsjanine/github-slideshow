@@ -6,13 +6,15 @@ permalink: /fnol-step-2---reported-by/
 source-id: 1hbswqcQt1hb-OTHa93v7Fw-YLeL7zC2rYfCHWH7lTcI
 published: true
 ---
-# FNOL Step 2 - Reported By 
+# FNOL step 2 - reported by 
 
 The **Reported By** screen records details about how the cause of loss is reported. 
 
 If you click **Continue** on the Policy Search screen, you will automatically be directed to the **Reported By** screen. You can also access the **Reported By** screen by selecting the FNOL Draft from the File a Claim screen if you completed the prior screen before exiting. 
 
-1. In the **How is the claim being reporte****d ?** dropdown list, select the method used to  report the event from the list of options. **Note:**  The list of options is configurable and selections for your company may vary.  
+1. In the **How is the claim being reporte****d ?** dropdown list, select the method used to  report the event from the list of options. 
+
+**Note:**  The list of options is configurable and selections for your company may vary.  
 
     * Phone
 
@@ -38,7 +40,8 @@ If you click **Continue** on the Policy Search screen, you will automatically be
 
     * Add Organization - See the Organization Contact Information -Parties topic for more information. 
 
-    * None**Note:** If this option is selected, the **Reporter's relation to insured** dropdown list is automatically disabled.
+    * None
+**Note:** If this option is selected, the **Reporter's relation to insured** dropdown list is automatically disabled.
 
 3. From the **Reporter's relation to insured** dropdown list, select the relationship option that applies:
 
