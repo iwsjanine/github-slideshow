@@ -6,9 +6,11 @@ permalink: /fnol-step-1---policy-search/
 source-id: 1nmgs-bl1gRpUo0XqgVVR7u1C-QgJ-uX5I7gdIQqhcY0
 published: true
 ---
-# FNOL Step 1 - Policy Search
+# FNOL step 1 - policy search
 
-The Policy Search screen allows users to document the time and type of loss and allows users to link the loss to a policy. Because losses must be associated with an existing policy, searching and selecting the policy is the first step in creating a new First Notice of Loss (FNOL). To navigate to the Policy Search screen and begin the FNOL process, follow these steps:
+The Policy Search screen allows users to document the time and type of loss and allows users to link the loss to a policy. Because losses must be associated with an existing policy, searching and selecting the policy is the first step in creating a new First Notice of Loss (FNOL). 
+
+To navigate to the Policy Search screen and begin the FNOL process, follow these steps:
 
 1. Select **Claims** from the BriteCore sidebar.
 
@@ -16,13 +18,14 @@ The Policy Search screen allows users to document the time and type of loss and 
 
 3. Select ** + New FNOL**. 
 
-## Create a New FNOL 
+## Create a new FNOL 
 
-1. In the **Date of Loss **box, select the calendar to choose the event date from the date picker.
+1. In the **Date of Loss** box, select the calendar to choose the event date from the date picker.
 
 2. In the **Time of Loss** box, select the clock to choose the exact time from the time picker.
 
-3. In the **Loss Category** dropdown list, select a loss category value.Note: The following options are configurable, your list may be different:  
+3. In the **Loss Category** dropdown list, select a loss category value.
+Note: The following options are configurable, your list may be different:  
 
     * Multi-vehicle accident
 
@@ -62,7 +65,9 @@ The Policy Search screen allows users to document the time and type of loss and 
 
             * Enter as much information as you know in the **Full Name** and **Address** boxes.
 
-            * If you enter the insured's state in the State box, the Full Name and City boxes are also required. **Note:** If the insured’s address was entered using the optional second street address, the system requires this line to be entered.  
+            * If you enter the insured's state in the State box, the Full Name and City boxes are also required.
+ 
+**Note:** If the insured’s address was entered using the optional second street address, the system requires this line to be entered.  
 
 5. Click **Search.** 
 
