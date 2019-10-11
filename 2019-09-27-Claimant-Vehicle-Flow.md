@@ -8,7 +8,7 @@ published: true
 ---
 # Add claimant vehicle and occupants to an FNOL
 
-The Claimant Vehicle and Occupants flow helps you capture all pertinent information about a claimant vehicle and its occupants. The screen flow wizard keeps all the information together and only presents you with screens for this one purpose. 
+Use the **Claimant Vehicle** flow to collect information about insured vehicles involved in a loss but not yet identified and recorded in the system. BriteCore allows you to enter the information in one place and presents entry options for this one purpose.
 
 ## Add driver of claimant vehicle
 
@@ -18,11 +18,11 @@ The Claimant Vehicle and Occupants flow helps you capture all pertinent informat
 
 ## Add passengers of the claimant vehicle
 
-When you select **+Add a Passenger**, **Passenger** dropdown list appears with the following available options:
+When you select **+ Add a Passenger, **the **Passenger** dropdown list appears with the following available options:
 
-* Select an insured passenger to display the **Add Involved Party** dialog. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Add Involved Party** screen.
+* Select an insured passenger to display the **Add Involved Party **dialog. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Add Involved Party** screen.
 
-* Select **Add Passenger** to add a new passenger and to display the  **Add Passenger** dialog. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the **Add Passenger** screen. 
+* Select **Add Passenger **to add a new passenger and to display the  **Add Passenger** dialog. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the **Add Passenger** screen. 
 
 ### Owner of the claimant vehicle
 
@@ -114,8 +114,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
     * No
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
@@ -125,13 +124,11 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
     * No
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-3. In the **Vehicle current location** text box, type the location of the vehicle.** Ex: **repair shop, residence
- 
+3. In the **Vehicle current location** text box, type the location of the vehicle.** **For example, a repair shop or residence. 
 
 4. In the **First point of impact** drop-down list, select one of the values from the list. **Note:** Lists may vary as this field is configurable.
 
@@ -161,8 +158,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
     * Roll Over
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
     * Other
 
@@ -204,8 +200,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
     * No Visible Damage
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 6. In the **Severity** drop-down list, select a description:
 
@@ -215,8 +210,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
     * Severe
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 7. In the **Airbag deployed** section, select one answer:
 
@@ -224,8 +218,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
     * No
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 8. In the **Was there a car seat involved** section, select one answer:
 
@@ -233,8 +226,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
     * No
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 9. In the **Please describe any pre-existing damage **text box, describe damage to the vehicle that predates the accident. 
 
