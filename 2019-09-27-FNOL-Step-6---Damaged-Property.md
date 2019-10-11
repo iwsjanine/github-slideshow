@@ -34,7 +34,7 @@ If you click **Continue** on the **Claimant Vehicle and Parties** screen, you wi
 
 Repeat the above steps for each instance of property damage associated with the loss. 
 
-Each entry appears on the **Damaged Property **screen in a table that shows the** Property Type**,** Owner**, **Location**, and** Damage Description**.
+Each entry appears on the **Damaged Property** screen in a table that shows the** Property Type**,** Owner**, **Location**, and **Damage Description**.
 
 ## Continue
 
