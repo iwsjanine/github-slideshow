@@ -115,6 +115,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * No
 
     * Unknown
+
 **Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
@@ -126,6 +127,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * No
 
     * Unknown
+
 **Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
@@ -162,11 +164,12 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * Roll Over
 
     * Unknown
-    **Note**: This is automatically selected when you choose No in Question 1. 
+
+**Note**: This is automatically selected when you choose No in Question 1. 
 
     * Other
 
-5. In the **Damage Location(s) **drop-down list, select one or more values from the list. 
+5. In the **Damage Location(s)** drop-down list, select one or more values from the list. 
 
 
     * Front End
@@ -226,7 +229,8 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * No
 
     * Unknown
-    **Note**: This is automatically selected when you choose No in Question 1. 
+
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 8. In the **Was there a car seat involved** section, select one answer:
 
@@ -235,7 +239,8 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * No
 
     * Unknown
-    **Note**: This is automatically selected when you choose No in Question 1. 
+
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 9. In the **Please describe any pre-existing damage **text box, describe damage to the vehicle that predates the accident. 
 
