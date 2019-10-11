@@ -243,7 +243,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
 * Click **Submit** to complete the Claimant Vehicles and Occupants dialog.
 
-## Pedestrians and Cyclists
+## Pedestrians and cyclists
 
 * If there were pedestrians or cyclists involved in the loss event, click the **+Add Pedestrian or Cyclist** button to open the **Add Pedestrian or Cyclist** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
