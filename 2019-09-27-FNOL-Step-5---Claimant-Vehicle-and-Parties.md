@@ -6,39 +6,45 @@ permalink: /fnol-step-5---claimant-vehicle-and-parties/
 source-id: 13NMgX5zFmt4vmJ6Q6nv6mVptmZfVTvMtrEQJWfBwhi0
 published: true
 ---
-# FNOL Step 5 - Claimant Vehicle and Parties
+# FNOL step 5 - adding claimant vehicle and parties
 
-This phase of the FNOL creation process involves recording claimants and vehicles and how they were impacted during the loss incident. 
+This **Claimant Vehicle and Parties **phase of the FNOL creation process involves recording claimants and vehicles and how they were impacted during the loss incident. 
 
-If you click **Continue** on the Insured Vehicle Details screen, you will automatically be directed to the Claimant Vehicle and Parties screen. You can also access the Claimant Vehicle and Parties screen by selecting the FNOL Draft from the File a Claim screen if you completed the prior screen before exiting.
+When you click **Continue** on the **Insured Vehicle Details** screen, you will automatically be directed to the **Claimant Vehicle and Parties** screen. You can also access the **Claimant Vehicle and Parties** screen by selecting the FNOL Draft from the File a Claim screen if you completed the prior screen before exiting.
 
-## Claimant Vehicles and Occupants Flow
+## Claimant vehicles and occupants flow
 
-Click the **+ Add Claimant Vehicle and Occupants** link and the + Add Claimant Vehicle and Occupants dialog appears. 
+Click the **+ Add Claimant Vehicle and Occupants** button, and the **Add Claimant Vehicle and Occupants** dialog appears. 
 
 ### Driver
 
-* When you select Add Driver from the Driver drop-down list,  the Add Driver dialog will appear. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+In the **Driver **dropdown list, the following selections are available.
+
+* When you select  **Add Driver, **the** Add Driver** dialog will appear. Follow the instructions in the [Add driver / add involved and non involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+
+* None
 
 ### Passengers
 
-* When you select **+ Add a Passenger** the Passenger drop-down appears. When you select Add Passenger from the Passenger drop-down list the Add Passenger dialog appears. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* When you select **+ Add a Passenger** the Passenger dropdown list appears. In the **Passenger** dropdown list, select Add Passenger. The Add Passenger dialog appears. To add a passenger, follow the instructions in the [Add driver / add involved and non involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 ### Owner of the vehicle
 
-* When you select a name from the Owner dropdown list, no more information is needed and you can click **Continue** to proceed.  
+In the **Owner** dropdown list, the following selections are available.
 
-* When you select Individual from the Owner drop-down list, the **Individual** dialog appears. Use the [Add Driver / Add Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the Individual screen.
+* When you select a party name, no more information is needed, and you can click **Continue** to proceed.  
 
-* When you select Organization under the Owner drop-down list, the **Organization** dialog appears. Use the [Organization Contact Information - Parties](https://docs.google.com/document/d/1F0Ltk0BwrQDXomyzTXsf8IiPIQxneKCU1GuLv-z2KdQ/edit#) topic for details of completing the Organization screen.
+* When you select Individual, the **Individual** dialog appears. Use the [Add driver / add involved and non involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic for details of completing the Individual screen.
+
+* When you select Organization, the **Organization** dialog appears. Use the [Organization contact information - parties](https://docs.google.com/document/d/1F0Ltk0BwrQDXomyzTXsf8IiPIQxneKCU1GuLv-z2KdQ/edit#) topic for details of completing the Organization screen.
 
 ### Continue
 
 * Click **Continue** to proceed to the next section of the dialog. 
 
-### Vehicle Information
+### Add claimant vehicle information
 
-1. In the **Vehicle Type** drop-down list, select a type:
+1. In the **Vehicle Type** dropdown list, select a type:
 
     * Antique Auto
 
@@ -52,55 +58,57 @@ Click the **+ Add Claimant Vehicle and Occupants** link and the + Add Claimant V
 
     * Recreational Trailer or Camper
 
-1. In the **Year** text box, type the vehicle year or use the plus and minus icons to increase or decrease the year value to identify the vehicle year. This is a required field. 
+1. In the **Year** box, type the vehicle year or use the plus and minus icons to increase or decrease the year value to identify the vehicle year. This is a required field. 
 
-2. In the **Make** text box, type the vehicle manufacturer. This is a required field. 
+2. In the **Make** box, type the vehicle manufacturer. This is a required field. 
 
-3. In the **Model** text box, type the vehicle model. This is a required field. 
+3. In the **Model** box, type the vehicle model. This is a required field. 
 
-4. In the **Vin** text box, type the Vin number. This is a required field that must be 17-digits in length. 
+4. In the **Vin** box, type the VIN number. This is a required field that must be 17-digits in length. 
 
-5. In the **Color** text box, type the color of the vehicle.
+5. In the **Color** box, type the color of the vehicle.
 
-6. In the **License Plate** text box, type the plate number.
+6. In the **License Plate** box, type the plate number.
 
-7. In the **License State** text box, type the state two-character abbreviation or use the picker to identify the state that issued the registration. 
+7. In the **License State** box, type the state two-character abbreviation or use the picker to identify the state that issued the registration. 
 
 ### Insurance Information
 
-1. In the **Insurance Carrier** text box, type the name of the carrier that insures the vehicle. 
+1. In the **Insurance Carrier** box, type the name of the carrier that insures the vehicle. 
 
-2. In the **Policy Number **text box, type the policy number of the vehicle.
+2. In the **Policy Number **box, type the policy number of the vehicle.
 
-3. In the **Claim Number** text box, type the claim number assigned by the vehicle's insurance carrier. 
+3. In the **Claim Number** box, type the claim number assigned by the vehicle's insurance carrier. 
 
-4. In the **Contact Name** text box, type a contact name at the carrier at the insurance company. 
+4. In the **Contact Name** box, type a contact name at the carrier at the insurance company. 
 
 ### Continue
 
 * Click **Continue** to proceed to the next section of the dialog. 
 
-### Damage Details
+### Add damage details
 
-1. In the **Are vehicle damage details known** section, select an answer:
+Use the instructions in this section to complete the **Damage Details** section. 
+
+1. In the **Are vehicle damage details known ?** section, select an answer:
 
 * Yes
 
 * No - When you click No, the following fields are populated with Unknown:	
 
-    * Is the vehicle drivable
+    * **Is the vehicle drivable ? **
 
-    * Was the vehicle towed from the scene
+    * **Was the vehicle towed from the scene ?**
 
-    * First Point of Impact
+    * **First Point of Impact**
 
-    * Damage locations
+    * **Damage locations**
 
-    * Severity
+    * **Severity**
 
-    * Airbag deployed
+    * **Airbag deployed**
 
-    * Was there a car seat involved
+    * **Was there a car seat involved ?**
 
 * This is a required field. 
 
@@ -110,7 +118,7 @@ Click the **+ Add Claimant Vehicle and Occupants** link and the + Add Claimant V
 
     * No
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
@@ -120,13 +128,13 @@ Click the **+ Add Claimant Vehicle and Occupants** link and the + Add Claimant V
 
     * No
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-3. In the **Vehicle current location** text box, type the location of the vehicle. **Ex:** repair shop, residence 
+3. In the **Vehicle current location** text box, type the location of the vehicle. For example, a repair shop or residence. 
 
-4. In the **First point of impact** drop-down list, select one of the values from the list. **Note:** Lists will vary as this field is configurable.
+4. In the **First point of impact** dropdown list, select one of the values from the list. **Note:** Lists will vary, as this field is configurable.
 
     * Front End
 
@@ -154,11 +162,11 @@ Click the **+ Add Claimant Vehicle and Occupants** link and the + Add Claimant V
 
     * Roll Over
 
-    * Unknown
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1.
 
     * Other
 
-5. In the **Damage Location(s) **drop-down list, select one of the values from the list. **Note:** Lists will vary as this field is configurable. 
+5. In the **Damage Location(s) **dropdown list, select one of the values from the list. 
 
     * Front End
 
@@ -232,15 +240,15 @@ Click the **+ Add Claimant Vehicle and Occupants** link and the + Add Claimant V
 
 ## Pedestrians and Cyclists
 
-* If there were pedestrians or cyclists involved in the loss event, click the **+ ****Add Pedestrian or Cyclist** link to open the Add Pedestrian or Cyclist dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* If there were pedestrians or cyclists involved in the loss event, click the **+ ****Add Pedestrian or Cyclist** button to open the **Add Pedestrian or Cyclist** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 ### Submit
 
-* Click **Submit** to exit the Add Pedestrian or Cyclist dialog and return to the Claimant Vehicles and Parties screen.
+* Click **Submit** to exit the **Add Pedestrian or Cyclist** dialog and return to the **Claimant Vehicles and Parties** screen.
 
 ## Witnesses
 
-* If there were witnesses to the loss event, click the **+ ****Add Witnesses** link to open the Add Witnesses dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* If there were witnesses to the loss event, click the **+ ****Add Witnesses** button to open the **Add Witnesses** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 ### Submit
 
