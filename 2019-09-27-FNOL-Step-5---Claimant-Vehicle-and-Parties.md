@@ -96,7 +96,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
 * No - When you click No, the following fields are populated with Unknown:	
 
-    * **Is the vehicle drivable ? **
+    * **Is the vehicle drivable ?**
 
     * **Was the vehicle towed from the scene ?**
 
@@ -137,7 +137,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 3. In the **Vehicle current location** text box, type the location of the vehicle. For example, a repair shop or residence.
  
 
-4. In the **First point of impact** dropdown list, select one of the values from the list. **Note:** Lists will vary, as this field is configurable.
+4. In the **First point of impact** dropdown list, select one of the values from the list. 
 
     * Front End
 
@@ -245,7 +245,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
 ## Pedestrians and Cyclists
 
-* If there were pedestrians or cyclists involved in the loss event, click the **+ ****Add Pedestrian or Cyclist** button to open the **Add Pedestrian or Cyclist** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* If there were pedestrians or cyclists involved in the loss event, click the **+Add Pedestrian or Cyclist** button to open the **Add Pedestrian or Cyclist** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 ### Submit
 
@@ -253,7 +253,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
 ## Witnesses
 
-* If there were witnesses to the loss event, click the **+ ****Add Witnesses** button to open the **Add Witnesses** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* If there were witnesses to the loss event, click the **+Add Witnesses** button to open the **Add Witnesses** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 ### Submit
 
