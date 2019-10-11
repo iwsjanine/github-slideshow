@@ -8,7 +8,7 @@ published: true
 ---
 # Adding non-listed vehicles
 
-Use the **Add ****Non-Listed ****Vehicle** flow to collect information about vehicles involved in the loss but not yet identified and recorded in the system. BriteCore allows you to enter the information in one place and presents entry options for this one purpose. This information is collected during FNOL creation and available from [Step 4 - insured vehicle details](https://docs.google.com/document/d/1zAjqriKqyMkI2fR2Bn6bmDDzG34EPSZ4mV3ddSf5VPU/edit#).
+Use the **Add Non-Listed Vehicle** flow to collect information about vehicles involved in the loss but not yet identified and recorded in the system. BriteCore allows you to enter the information in one place and presents entry options for this one purpose. This information is collected during FNOL creation and available from [Step 4 - insured vehicle details](https://docs.google.com/document/d/1zAjqriKqyMkI2fR2Bn6bmDDzG34EPSZ4mV3ddSf5VPU/edit#).
 
 ## Add driver of non-listed vehicle
 
