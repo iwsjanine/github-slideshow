@@ -20,7 +20,7 @@ Click the **+ Add Claimant Vehicle and Occupants** button, and the **Add Claiman
 
 In the **Driver** dropdown list, the following selections are available.
 
-* When you select  **Add Driver**, the Add Driver** dialog will appear. Follow the instructions in the [Add driver / add involved and non involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* When you select  **Add Driver**, the **Add Driver** dialog will appear. Follow the instructions in the [Add driver / add involved and non involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 * None
 
