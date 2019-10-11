@@ -6,37 +6,43 @@ permalink: /insured-vehicle-flow/
 source-id: 13MI9WLLQKg_NRnLtKnYQpB8nJpiWyODKH1EMnpBRTxs
 published: true
 ---
-# Insured Vehicle Flow
+# Adding insured vehicle information to an FNOL
 
-Use the Insured Vehicle flow to collect information about insured vehicles involved in the loss but not yet identified and recorded in the system.  The screen flow wizard keeps all the information together and only presents you with screens for this one purpose. This information is collected during FNOL creation and available from [Step 4 Insured Vehicle Details](https://docs.google.com/document/d/1zAjqriKqyMkI2fR2Bn6bmDDzG34EPSZ4mV3ddSf5VPU/edit#).
+Use the **Insured Vehicle** flow to collect information about insured vehicles involved in a loss but not yet identified and recorded in the system. BriteCore allows you to enter the information in one place and presents entry options for this one purpose. This information is collected during FNOL creation and available from [Step 4 - insured vehicle details](https://docs.google.com/document/d/1zAjqriKqyMkI2fR2Bn6bmDDzG34EPSZ4mV3ddSf5VPU/edit#).
 
-### Driver of vehicle
+### Add driver of insured vehicle
 
-* When you select an insured from the Driver dropdown, the **Add Involved Party** dialog appears. Use the [Add Driver / Add Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the Add Involved Party screen.
+In the **Driver** dropdown list, the following selections are available.
 
-* When you select Add Driver from the Driver drop-down list, the **Add Driver** dialog appears. Use the Add Drive / Add Involved Party / Add Individual / Add Passenger topic for details of completing the Add Driver screen. 
+* When you select an insured from the **Driver** dropdown list, the **Add Involved Party** dialog appears. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Add Involved Party** screen.
 
-### Passengers of the vehicle
+* When you select **Add Driver**, the **Add Driver** dialog appears. Use the Add drive / add involved party / add individual / add passenger topic for details of completing the **Add Driver** screen. 
 
-* When you select **+ Add a passenger **the Passenger drop-down appears. When you select a passenger from the Passenger drop-down list, the **Add Involved Party **dialog appears. Use the [Add Driver / Add Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the Add Involved Party screen.
+### Add passengers of the insured vehicle
 
-* When you select **+ Add a passenger** the Passenger drop-down appears. When you select Add Passenger from the Passenger drop-down list, the **Add Passenger** dialog appears. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the Add Passenger screen. 
+You can add passengers by selecting **+ Add a Passenger**. The** Passenger** dropdown list appears with the following available options: 
 
-### Owner of vehicle
+* Select an insured passenger to display the **Add Involved Party **dialog. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Add Involved Party** screen.
 
-* When you select a name from the Owner drop-down list, no more information is needed and you can click **Continue** to proceed.  
+* Select **Add Passenger **to add a new passenger and to display the  **Add Passenger** dialog. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the **Add Passenger** screen. 
 
-* When you select Individual from the Owner drop-down list, the **Individual** dialog appears. Use the [Add Driver / Add Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the Individual screen.
+### Owner of the insured vehicle
 
-* When you select Organization from the Owner drop-down list, the **Organization** dialog appears. Use the [Organization Contact Information - Parties](https://docs.google.com/document/d/1F0Ltk0BwrQDXomyzTXsf8IiPIQxneKCU1GuLv-z2KdQ/edit#) topic for details of completing the Organization screen.
+In the **Owner** dropdown list, the following selections are available. 
+
+* When you select an insured's name, no more information is needed, and you can click **Continue** to proceed.  
+
+* When you select **Individual**, the **Individual** dialog appears. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Individual** screen.
+
+* When you select **Organization**, the **Organization** dialog appears. Use the [Organization contact information - parties](https://docs.google.com/document/d/1F0Ltk0BwrQDXomyzTXsf8IiPIQxneKCU1GuLv-z2KdQ/edit#) topic for details of completing the **Organization** screen.
 
 ### Continue
 
-Click **Continue **to proceed to the next screen of the dialog.
+Click **Continue **to proceed to the next screen of the screen, **Vehicle Information**.
 
-## Vehicle Information
+## Add insured vehicle information
 
-1. In the **Vehicle Type** drop-down list, select a type:
+1. In the **Vehicle Type** dropdown list, select a type:
 
     * Antique Auto
 
@@ -50,73 +56,73 @@ Click **Continue **to proceed to the next screen of the dialog.
 
     * Recreational Trailer or Camper
 
-1. In the **Year** textbox, type the vehicle year or use the plus and minus icons to increase or decrease the year value to identify the vehicle year. This is a required field.
+1. In the **Year** box, type the vehicle year or use the plus and minus icons to increase or decrease the year value. This is a required field.
 
-2. In the **Make** text box, type the vehicle manufacturer. This is a required field. 
+2. In the **Make** box, type the vehicle manufacturer. This is a required field. 
 
-3. In the **Model** text box, type the vehicle model. This is a required field. 
+3. In the **Model** box, type the vehicle model. This is a required field. 
 
-4. In the **Vin** text box, type the Vin . This is a required field that must be 17-digits in length. 
+4. In the **Vin** text box, type the VIN. This is a required field that must be 17-digits in length. 
 
-5. In the **Color** text box, type the color of the vehicle.
+5. In the **Color** box, type the color of the vehicle. This is a required field. 
 
-6. In the **License Plate** text box, type the plate number.
+6. In the **License Plate** box, type the plate number.
 
-7. In the **License State** box, type the state initials or use the drop-down list to select the state that issued the registration. 
+7. In the **License State** box, type the state abbreviation or use the dropdown list to select the state that issued the registration. Click the abbreviation displayed to validate your selection and save it.  
 
 ### Continue
 
 Click **Continue** to proceed to the next screen of the dialog.
 
-## Damage Details
+## Add damage details
 
-Use the instructions on this page to complete the Damage details dialog. 
+Use the instructions on this page to complete the **Damage details **dialog. 
 
-1. In the **Are vehicle damage details known** section, select an answer:
+1. In the **Are vehicle damage details known ?** section, select an answer:
 
 * Yes
 
-* No - When you click No, the following fields are populated with Unknown:	
+* No - When you select No, the following fields are populated with Unknown:	
 
-    * Is the vehicle drivable
+    * **Is the vehicle drivable ?**
 
-    * Was the vehicle towed from the scene
+    * **Was the vehicle towed from the scene ?**
 
-    * First point of impact
+    * **First point of impact**
 
-    * Damage locations
+    * **Damage location(s)**
 
-    * Severity
+    * **Severity**
 
-    * Airbag deployed
+    * **Airbag deployed**
 
-    * Was there a car seat involved
+    * **Was there a car seat involved ?**
 
 * This is a required field. 
 
-1. In the **Is the vehicle drivable** section, select an answer: 
+1. In the **Is the vehicle drivable ?** section, select an answer: 
 
     * Yes
 
     * No
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-2. In the **Was the vehicle towed from the scene **section, select an answer: 
+2. In the **Was the vehicle towed from the scene ? **section, select an answer: 
 
     * Yes
 
     * No
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-3. In the **Vehicle current location** text box, type the location of the vehicle. **Ex:** repair shop, residence 
+3. In the **Vehicle current location** box, type the location of the vehicle. For example, repair shop, residence. 
 
-4. In the **First point of impact** drop-down list, select one of the values from the list. **Note:** Lists may vary as this field is configurable. 
+4. In the **First point of impact** dropdown list, select one of the values from the list. 
 
     * Front End
 
@@ -144,11 +150,11 @@ Use the instructions on this page to complete the Damage details dialog.
 
     * Roll Over
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1.
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
     * Other
 
-5. In the **Damage Location(s) **drop-down list, select one or more values from the list. **Note:** Lists may vary as this field is configurable. 
+5. In the **Damage Location(s) **drop-down list, select one or more values from the list.  
 
     * Front End
 
@@ -186,9 +192,9 @@ Use the instructions on this page to complete the Damage details dialog.
 
     * No Visible Damage
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
-6. In the **Severity** drop-down list, select a description:
+6. In the **Severity** dropdown list, select a value:
 
     * Minor
 
@@ -196,7 +202,7 @@ Use the instructions on this page to complete the Damage details dialog.
 
     * Severe
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1.
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 7. In the **Airbag deployed** section, select one answer:
 
@@ -204,21 +210,21 @@ Use the instructions on this page to complete the Damage details dialog.
 
     * No
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1.
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
-8. In the **Was there a car seat involved** section, select one answer:
+8. In the **Was there a car seat involved ?** section, select one answer:
 
     * Yes
 
     * No
 
-    * Unknown - Note that this is automatically selected when you choose No in Question 1.
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
-9. In the **Please describe any pre-existing damage **text box, describe damage to the vehicle that predates the accident. 
+9. In the **Please describe any pre-existing damage **box, describe damage to the vehicle that predates the accident. 
 
-10. In the **Please describe any damaged items within the vehicle** text box, describe damage to any contents of the vehicle.
+10. In the **Please describe any damaged items within the vehicle** box, describe damage to any contents of the vehicle.
 
 ### Submit
 
-Click **Submit** to exit the Insured Vehicle dialog and return to the Insured Vehicle Details screen.
+Click **Submit** to exit the **Insured Vehicle** dialog and return to the **Insured Vehicle** Details screen.
 
