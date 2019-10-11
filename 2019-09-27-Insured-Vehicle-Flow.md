@@ -20,11 +20,11 @@ In the **Driver** dropdown list, the following selections are available.
 
 ### Add passengers of the insured vehicle
 
-You can add passengers by selecting **+ Add a Passenger**. The** Passenger** dropdown list appears with the following available options: 
+You can add passengers by selecting **+ Add a Passenger**. The **Passenger** dropdown list appears with the following available options: 
 
-* Select an insured passenger to display the **Add Involved Party **dialog. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Add Involved Party** screen.
+* Select an insured passenger to display the **Add Involved Party** dialog. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Add Involved Party** screen.
 
-* Select **Add Passenger **to add a new passenger and to display the  **Add Passenger** dialog. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the **Add Passenger** screen. 
+* Select **Add Passenger** to add a new passenger and to display the  **Add Passenger** dialog. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the **Add Passenger** screen. 
 
 ### Owner of the insured vehicle
 
@@ -106,7 +106,8 @@ Use the instructions on this page to complete the **Damage details **dialog.
 
     * No
 
-    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
@@ -116,11 +117,13 @@ Use the instructions on this page to complete the **Damage details **dialog.
 
     * No
 
-    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-3. In the **Vehicle current location** box, type the location of the vehicle. For example, repair shop, residence. 
+3. In the **Vehicle current location** box, type the location of the vehicle. For example, repair shop, residence.
+ 
 
 4. In the **First point of impact** dropdown list, select one of the values from the list. 
 
@@ -150,9 +153,11 @@ Use the instructions on this page to complete the **Damage details **dialog.
 
     * Roll Over
 
-    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown
+**Note**: This is automatically selected when you choose No in Question 1. 
 
-    * Other
+    * Other
+
 
 5. In the **Damage Location(s) **drop-down list, select one or more values from the list.  
 
@@ -192,7 +197,8 @@ Use the instructions on this page to complete the **Damage details **dialog.
 
     * No Visible Damage
 
-    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 6. In the **Severity** dropdown list, select a value:
 
@@ -202,7 +208,8 @@ Use the instructions on this page to complete the **Damage details **dialog.
 
     * Severe
 
-    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 7. In the **Airbag deployed** section, select one answer:
 
@@ -210,7 +217,8 @@ Use the instructions on this page to complete the **Damage details **dialog.
 
     * No
 
-    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 8. In the **Was there a car seat involved ?** section, select one answer:
 
@@ -218,7 +226,8 @@ Use the instructions on this page to complete the **Damage details **dialog.
 
     * No
 
-    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown
+**Note**: This is automatically selected when you choose No in Question 1. 
 
 9. In the **Please describe any pre-existing damage **box, describe damage to the vehicle that predates the accident. 
 
