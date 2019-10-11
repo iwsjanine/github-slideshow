@@ -130,10 +130,10 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
 * This is a required field. 
 
-3. In the **Vehicle current location** text box, type the location of the vehicle.** **For example, a repair shop or residence.
+3. In the **Vehicle current location** text box, type the location of the vehicle. For example, a repair shop or residence.
  
 
-4. In the **First point of impact** drop-down list, select one of the values from the list. **Note:** Lists may vary as this field is configurable.
+4. In the **First point of impact** drop-down list, select one of the values from the list. 
 
     * Front End
 
@@ -162,11 +162,12 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * Roll Over
 
     * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    **Note**: This is automatically selected when you choose No in Question 1. 
 
     * Other
 
-5. In the **Damage Location(s) **drop-down list, select one or more values from the list. **Note:** Lists may vary as this field is configurable.
+5. In the **Damage Location(s) **drop-down list, select one or more values from the list. 
+
 
     * Front End
 
@@ -205,7 +206,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * No Visible Damage
 
     * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    **Note**: This is automatically selected when you choose No in Question 1. 
 
 6. In the **Severity** drop-down list, select a description:
 
@@ -216,7 +217,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * Severe
 
     * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    **Note**: This is automatically selected when you choose No in Question 1. 
 
 7. In the **Airbag deployed** section, select one answer:
 
@@ -225,7 +226,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * No
 
     * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    **Note**: This is automatically selected when you choose No in Question 1. 
 
 8. In the **Was there a car seat involved** section, select one answer:
 
@@ -234,7 +235,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
     * No
 
     * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    **Note**: This is automatically selected when you choose No in Question 1. 
 
 9. In the **Please describe any pre-existing damage **text box, describe damage to the vehicle that predates the accident. 
 
