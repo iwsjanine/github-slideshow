@@ -18,11 +18,11 @@ Use the **Claimant Vehicle** flow to collect information about insured vehicles 
 
 ## Add passengers of the claimant vehicle
 
-When you select **+ Add a Passenger**, the **Passenger** dropdown list appears with the following available options:
+When you select **Add a Passenger**, the **Passenger** dropdown list appears with the following available options:
 
 * Select an insured passenger to display the **Add Involved Party** dialog. Use the [Add driver / add involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#) topic for details of completing the **Add Involved Party** screen.
 
-* Select **Add Passenger **to add a new passenger and to display the  **Add Passenger** dialog. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the **Add Passenger** screen. 
+* Select **Add Passenger** to add a new passenger and to display the  **Add Passenger** dialog. Use the Add Driver / Add Involved Party / Add Individual / Add Passenger topic for details of completing the **Add Passenger** screen. 
 
 ### Owner of the claimant vehicle
 
