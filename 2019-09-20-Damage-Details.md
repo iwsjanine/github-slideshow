@@ -32,27 +32,30 @@ Use the instructions on this page to complete the **Damage Details** dialog.
 
 * This is a required field. 
 
-1. In the **Is the vehicle drivable** **?** section, select an answer: 
+1. In the **Is the vehicle drivable?** section, select an answer: 
 
     * Yes
 
     * No
 
-    * Unknown **Note:** This option is automatically selected when you choose** **No in Question 1. 
+    * Unknown 
+**Note:** This option is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-2. In the **Was the vehicle towed from the scene ? **section, select an answer: 
+2. In the **Was the vehicle towed from the scene?** section, select an answer: 
 
     * Yes
 
     * No
 
-    * Unknown **Note:** This option is automatically selected when you choose** **No in Question 1. 
+    * Unknown 
+**Note:** This option is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-3. In the **Vehicle current location** text box, provide the location of the vehicle, for example, repair shop, residence 
+3. In the **Vehicle current location** text box, provide the location of the vehicle, for example, repair shop, residence
+ 
 
 4. In the **First point of impact** dropdown list, select one of the values from the list. 
 
@@ -80,11 +83,13 @@ Use the instructions on this page to complete the **Damage Details** dialog.
 
     * Roll Over
 
-    * Unknown **Note:** This option is automatically selected when you choose** **No in Question 1.
+    * Unknown 
+**Note:** This option is automatically selected when you choose No in Question 1.
 
-    * Other
+    * Other
 
-5. In the **Damage Location(s) **dropdown list, select one or more of the values from the list. 
+
+5. In the **Damage Location(s)** dropdown list, select one or more of the values from the list. 
 
     * Front End
 
@@ -122,7 +127,8 @@ Use the instructions on this page to complete the **Damage Details** dialog.
 
     * No Visible Damage
 
-    * Unknown **Note:** This option is automatically selected when you choose** **No in Question 1.
+    * Unknown 
+**Note:** This option is automatically selected when you choose No in Question 1.
 
 6. In the **Severity** dropdown list, select a value:
 
@@ -132,7 +138,8 @@ Use the instructions on this page to complete the **Damage Details** dialog.
 
     * Severe
 
-    * Unknown **Note:** This option is automatically selected when you choose** **No in Question 1.
+    * Unknown 
+**Note:** This option is automatically selected when you choose No in Question 1.
 
 7. In the **Airbag deployed** section, select one answer:
 
@@ -140,17 +147,19 @@ Use the instructions on this page to complete the **Damage Details** dialog.
 
     * No
 
-    * Unknown **Note:** This option is automatically selected when you choose** **No in Question 1.
+    * Unknown 
+**Note:** This option is automatically selected when you choose No in Question 1.
 
-8. In the **Was there a car seat involved ?** section, select one answer:
+8. In the **Was there a car seat involved?** section, select one answer:
 
     * Yes
 
     * No
 
-    * Unknown **Note:** This option is automatically selected when you choose** **No in Question 1. 
+    * Unknown 
+**Note:** This option is automatically selected when you choose No in Question 1. 
 
-9. In the **Please describe any pre-existing damage **box, describe damage to the vehicle that predates the accident. 
+9. In the **Please describe any pre-existing damage** box, describe damage to the vehicle that predates the accident. 
 
 10. In the **Please describe any damaged items within the vehicle** box, describe damage to any contents of the vehicle.
 
