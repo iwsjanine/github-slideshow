@@ -242,7 +242,7 @@ Use the instructions in this section to complete the **Damage Details** dialog.
 
      **Note**: This is automatically selected when you choose No in Question 1. 
 
-9. In the **Please describe any pre-existing damage **text box, describe damage to the vehicle that predates the accident. 
+9. In the **Please describe any pre-existing damage** text box, describe damage to the vehicle that predates the accident. 
 
 10. In the **Please describe any damaged items within the vehicle** text box, describe damage to any contents of the vehicle.
 
