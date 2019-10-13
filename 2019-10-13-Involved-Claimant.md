@@ -12,7 +12,7 @@ published: true
 
 2. In the **Date of Birth** box, enter the date in MM/DD/YY format.
 
-3. In the **SSN **box, enter the driver's social security number in XXX-XX-XXXX format.
+3. In the **SSN** box, enter the driver's social security number in XXX-XX-XXXX format.
 
 4. In the **Address Type** dropdown list, from the following options:
 
@@ -34,7 +34,7 @@ published: true
 
 9. To add another address:
 
-    * Click the **Add Another Address **link to add more entry fields.
+    * Click the **Add Another Address** link to add more entry fields.
 
 10. To add a phone number, click the **Add Phone Number link.** 
 
