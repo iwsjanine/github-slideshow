@@ -26,7 +26,7 @@ When an involved party is a primary or named insured on the policy, information 
 
 ## Basic Information
 
-1. In the **Full Name** box, enter the name of the individual you are adding. This is a required field.
+1. In the **Full Name** box, enter the name of the individual you are adding. This is a required field.
 
 2. In the **Date of Birth** box, type the date in MM/DD/YYYY format, or use the date picker to locate the date of birth.
 
@@ -154,7 +154,7 @@ Use this section of the screen to add individuals and organizations who are conn
 
 ## Injury Information
 
-Use this section of the screen to identify whether this particular individual has been injured. 
+Use this section of the screen to identify whether this particular individual has been injured. This is a required field.
 
 1. In the **Was the party injured **section, select from one of the following responses:
 
