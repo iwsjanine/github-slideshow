@@ -161,13 +161,13 @@ This is a required field.
 
 1. In the **Was the party injured **section**, select from one of the following responses:
 
-* Yes - When you click Yes and click **Continue**, the [Injury Information ](https://docs.google.com/document/d/1K6dABwy5pYyo_o-wOk5Fave3W9ksfYEfbpowmcnvIy8/edit)screen appears. 
+    * Yes - When you click Yes and click **Continue**, the [Injury Information ](https://docs.google.com/document/d/1K6dABwy5pYyo_o-wOk5Fave3W9ksfYEfbpowmcnvIy8/edit)screen appears. 
 
-* No -  When you click No, no further information is needed on this screen.
+    * No -  When you click No, no further information is needed on this screen.
 
-* Unknown - When you click Unknown, BriteCore  keeps track of this status and no further information is needed on this screen. 
+    * Unknown - When you click Unknown, BriteCore  keeps track of this status and no further information is needed on this screen. 
 
 ## Submit
 
-* After confirming your choices, click **Submit**.
+    * After confirming your choices, click **Submit**.
 
