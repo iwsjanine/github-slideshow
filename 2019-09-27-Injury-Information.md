@@ -6,11 +6,11 @@ permalink: /injury-information/
 source-id: 1K6dABwy5pYyo_o-wOk5Fave3W9ksfYEfbpowmcnvIy8
 published: true
 ---
-# Injury Information
+# Add injury information for an involved party in an FNOL
 
 Use these instructions to complete injury information for individuals injured during the loss. 
 
-1. In the **Injury Type** drop-down list, select the type of injury:
+1. In the **Injury ****Type** dropdown list, select the type of injury:
 
     * Strain/Sprain-Soft Tissue
 
@@ -54,7 +54,7 @@ This is a required field.
 
 	This is a required field. 
 
-3. In the **Was there a loss of consciousness** section, select an answer:
+3. In the **Loss Of Consciousness** section, select an answer:
 
     * Yes
 
@@ -64,7 +64,7 @@ This is a required field.
 
 	This is a required field. 
 
-4. In the **Was the party transported to the hospital from the scene **section, select an answer:
+4. In the **Was the party transported to the hospital from the scene ? **section, select an answer:
 
     * Yes
 
@@ -74,11 +74,11 @@ This is a required field.
 
 This is a required field. 
 
-5. In the **Describe Prior Injuries** text box, describe any injuries that predate the injuries incurred in the loss event.
+5. In the **Describe Prior Injuries** box, describe any injuries that predate the injuries incurred in the loss event.
 
-6. In the **Describe any current medical conditions** text box, list and explain current medical conditions for the individual. 
+6. In the **Describe any current medical conditions** box, list and explain current medical conditions for the individual. 
 
-7. In the **Medicare Eligible** section, select an answer:
+7. In the **Medicare Eligible ?** section, select an answer:
 
     * Yes
 
@@ -86,7 +86,7 @@ This is a required field.
 
     * Unknown
 
-8.  In the **HICN (Health Insurance Care Number)** text box, type the number. 
+8. In the **HICN (Health Insurance Care Number)** box, type the number. 
 
 9. Click **Submit** when you are satisfied with your selections.
 
