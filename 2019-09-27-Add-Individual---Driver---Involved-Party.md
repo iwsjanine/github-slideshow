@@ -127,9 +127,7 @@ Use this section of the screen to add individuals and organizations who are conn
 
 1. Click **+ Add Associated Party.**
 
-2. From the **Association Type** dropdown list, select an association. 
-
-Note that the list you see may differ—these options are configurable.   
+2. From the **Association Type** dropdown list, select an association. Note that the list you see may differ—these options are configurable.   
 
     * Insurance Carrier
 
