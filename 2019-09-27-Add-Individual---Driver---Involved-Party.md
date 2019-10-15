@@ -26,7 +26,8 @@ When an involved party is a primary or named insured on the policy, information 
 
 ## Basic Information
 
-1. In the **Full Name** box, enter the name of the individual you are adding. This is a required field.
+1. In the **Full Name** box, enter the name of the individual you are adding. 
+This is a required field.
 
 2. In the **Date of Birth** box, type the date in MM/DD/YYYY format, or use the date picker to locate the date of birth.
 
@@ -54,11 +55,11 @@ When an involved party is a primary or named insured on the policy, information 
 
 6. To add another address:
 
-    * Click **+ ****Add Another Address**** **and repeat steps 1-5.
+    * Click **Add Another Address** and repeat steps 1-5.
 
 ## Phone
 
-1. To add a phone number, click **+** **Add Phone Number**.  
+1. To add a phone number, click **Add Phone Number**.  
 
 2. In the international prefix dropdown list, select a prefix. The default is USA.
 
@@ -80,7 +81,7 @@ When an involved party is a primary or named insured on the policy, information 
 
 ## Email
 
-1. To add an email address, click **+ ****Add Email**.
+1. To add an email address, click **+ Add Email**.
 
 2. In the **Email** box, type the individual's email address.
 
@@ -94,9 +95,9 @@ When an involved party is a primary or named insured on the policy, information 
 
     * Other 
 
-4. To add another email address, click **+ ****Add Another Email**** Address** and repeat steps 2 and 3.
+4. To add another email address, click **+ Add Another Email** Address** and repeat steps 2 and 3.
 
-5. To remove an email address, click ** X** **Remove**.
+5. To remove an email address, click **X Remove**.
 
 ## Submit
 
@@ -124,9 +125,11 @@ This applies only to involved parties that are Individuals
 
 Use this section of the screen to add individuals and organizations who are connected to losses such as attorneys, insurance agents or other contacts to be recorded in association with the loss.  
 
-1. Click **+ ****Add Associated Party.**
+1. Click **+ Add Associated Party.**
 
-2. From the **Association Type** dropdown list, select an association. Note that the list you see may differ—these options are configurable.   
+2. From the **Association Type** dropdown list, select an association. 
+
+Note that the list you see may differ—these options are configurable.   
 
     * Insurance Carrier
 
@@ -154,9 +157,11 @@ Use this section of the screen to add individuals and organizations who are conn
 
 ## Injury Information
 
-Use this section of the screen to identify whether this particular individual has been injured. This is a required field.
+Use this section of the screen to identify whether this particular individual has been injured. 
 
-1. In the **Was the party injured **section, select from one of the following responses:
+This is a required field.
+
+1. In the **Was the party injured **section**, select from one of the following responses:
 
 * Yes - When you click Yes and click **Continue**, the [Injury Information ](https://docs.google.com/document/d/1K6dABwy5pYyo_o-wOk5Fave3W9ksfYEfbpowmcnvIy8/edit)screen appears. 
 
