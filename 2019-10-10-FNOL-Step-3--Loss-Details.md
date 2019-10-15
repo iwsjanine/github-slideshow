@@ -12,7 +12,7 @@ published: true
 
 If you click **Continue** on the **Reported By** screen, you will automatically be directed to the **Loss Details** screen. You can also access the **Loss Details** screen by selecting an FNOL draft from the File a Claim screen when you have completed the prior screen before exiting the incomplete FNOL.
 
-1. Review **Date of Loss, Time of Loss, **and **Loss Category** to ensure the values are correct. Adjust the values if there are any errors.
+1. Review **Date of Loss, Time of Loss**, and **Loss Category** to ensure the values are correct. Adjust the values if there are any errors.
 
 This is a required field. 
 
