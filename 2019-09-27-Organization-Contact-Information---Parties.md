@@ -36,15 +36,17 @@ To add an organization from the **Add an Organization** dialog, complete the sec
 
 2. In the **Address Line 1** box, type the organization's street address or the first line of a multiline address.
 
-3. In the **Address Line 2 (Optional) **box, type the second line in a multiline address. 
+3. In the **Address Line 2 (Optional)** box, type the second line in a multiline address. 
 
 4. In the **Country** dropdown list, select the country of the organization's physical location or mailing address. 
 
-5. In the **Zip** box, type the five- or nine-digit zip code for the organization. Claims validates the address and populates the city and state.Click the **+ Add Another Address** link to add additional addresses and repeat Steps 1-5. 
+5. In the **Zip** box, type the five- or nine-digit zip code for the organization. Claims validates the address and populates the city and state.
+
+Click the **+ Add Another Address** link to add additional addresses and repeat Steps 1-5. 
 
 ## Phone
 
-1. To add a phone number, click the** + ****Add Phone Number** link. 
+1. To add a phone number, click the** + **Add Phone Number** link. 
 
 2. In the international prefix dropdown list, select a prefix. The default is USA.
 
@@ -62,9 +64,11 @@ To add an organization from the **Add an Organization** dialog, complete the sec
 
 5. To add another phone number, click the **+ Add Another Phone Number** link, and repeat steps 2-4.
 
-6. To delete a phone number, click** X Remove**.
+6. To delete a phone number, click **X Remove**.
 
- 
+
+
+ 
 
 ## Email
 
@@ -82,7 +86,8 @@ To add an organization from the **Add an Organization** dialog, complete the sec
 
     * Other
 
-4. To add another email address, click the **+ Add Another ****Email**** Address** link, and repeat steps 2 and 3. **Note: **Email addresses will show as Email, Second Email, Third Email, up to 99 email addresses.
+4. To add another email address, click the **+ Add Another Email Address** link, and repeat steps 2 and 3. 
+**Note:** Email addresses will show as Email, Second Email, Third Email, up to 99 email addresses.
 
 5. To remove an email address, click **x Remove**.
 
