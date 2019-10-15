@@ -6,23 +6,35 @@ permalink: /add-individual---driver---involved-party/
 source-id: 1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA
 published: true
 ---
-# Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger
+# Add driver, involved and non-involved, individual / passenger
 
-Several of the information-collection screens are essentially the same form—you will notice that the heading of the form will be different because the context is different. The instructions for filling out the form are exactly the same. The system, however, keeps track of the association to the claim. 
+The forms for adding involved and non-involved parties during FNOL are mostly the same and with only a few different fields. Individuals include the varied participants and involved parties in a claim such as:
 
-With this screen you can capture details about any individual associated with a claim including attorneys, agents, insurance carriers and parents or guardians. The page also includes the question of whether the individual was injured. 
+* Drivers of vehicles involved in accidents (individuals only).
+
+* Passengers of vehicles involved in accidents that may eventually become claimants with exposures associated to them (individuals only). 
+
+* Pedestrians or bicyclists who are injured or have damaged property, such as a bicycle, (individuals only).
+
+* Witnesses that may have observed accidents, but did not incur any injury or loss (non-involved parties, individuals only). 
+
+* Owners of insured vehicles, claimant vehicles, or damaged property as a result of accidents (includes both individuals and organizations). 
+
+The form to add individuals in the above associations with a claim are nearly identical with the exception of their relationship to the loss. BriteCore Claims tracks the relationship within the system. This documentation topic provides a single set of instructions to help you complete the individual party forms. 
+
+When an involved party is a primary or named insured on the policy, information automatically populates to the individual-involved party form. Information coming from the policy is not editable and appears as grayed out text.  When an involved party provides a different address, phone number, or email address than that originating from the policy, then you can add one or more additional addresses, phone numbers, or email addresses. 
 
 ## Basic Information
 
-1. In the **Full Name** text box, enter the name of the individual you are adding. This is a required field.
+1. In the **Full Name** box, enter the name of the individual you are adding. This is a required field.
 
-2. In the **Date of Birth** text box, type the date in MM/DD/YYYY format, or use the date picker to locate the date of birth.
+2. In the **Date of Birth** box, type the date in MM/DD/YYYY format, or use the date picker to locate the date of birth.
 
-3. In the **SSN** text box, enter the individual's social security number in XXX-XX-XXXX format.
+3. In the **SSN** box, enter the individual's social security number in XXX-XX-XXXX format. Claims performs a Contacts look up based on the SSN entry to find a match in BriteCore. 
 
 ## Address
 
-1. In the Address Type drop-down list, select an option:
+1. In the **Address Type** dropdown list, select an option:
 
     * Mailing/Billing
 
@@ -32,27 +44,27 @@ With this screen you can capture details about any individual associated with a 
 
     * Other
 
-2. In the **Address Line 1** text box, type the first line of the address.
+2. In the **Address Line 1** box, type the first line of the address.
 
-3. In the **Address Line 2** text box, type a second line of the address if one exists.
+3. In the **Address Line 2** box, type a second line of the address if one exists.
 
-4. In the **Country** drop-down list, select the country.
+4. In the **Country** dropdown list, select the country.
 
-5. In the **Zip** text box, enter the five- or nine-digit zip code in XXXXX or XXXXX-XXXX format.
+5. In the **Zip** text box, enter the five- or nine-digit zip code in XXXXX or XXXXX-XXXX format. The system validates the zip code and populates the **City** and **State** boxes. 
 
 6. To add another address:
 
-    * Click the **+ ****Add Another Address**** **and repeat steps 1-5.
+    * Click **+ ****Add Another Address**** **and repeat steps 1-5.
 
 ## Phone
 
-1. To add a phone number, click the **+** **Add Phone Number **link**.**  
+1. To add a phone number, click **+** **Add Phone Number**.  
 
-2. In the **International Prefix** drop-down list, select a prefix. The default is USA.
+2. In the international prefix dropdown list, select a prefix. The default is USA.
 
-3. In the **Phone Number** text box, type the full telephone number including area code. 
+3. In the **Phone Number** box, type the full telephone number including area code. 
 
-4. In the **Type** drop-down list, select one of the following:
+4. In the **Type** dropdown list, select one of the following:
 
     * Mobile
 
@@ -62,17 +74,17 @@ With this screen you can capture details about any individual associated with a 
 
     * Other
 
-5. To add another phone number, click the **+ Add Another Phone Number** link, and repeat steps 2-4. 
+5. To add another phone number, click **+ Add Another Phone Number** and repeat steps 2-4. 
 
 6. To delete a phone number, click **X Remove.**
 
 ## Email
 
-1. To add an email address, click the **+ ****Add Email** link.
+1. To add an email address, click **+ ****Add Email**.
 
-2. In the **Email** text box, type the individual's email address.
+2. In the **Email** box, type the individual's email address.
 
-3. From the **Type** drop-down list, select the type of email:
+3. From the **Type** dropdown list, select the type of email:
 
     * Personal
 
@@ -90,41 +102,31 @@ With this screen you can capture details about any individual associated with a 
 
 * If you are completing this form for:
 
-    * Individuals
+    * Involved parties that are individuals (for Auto lines of business, parties with a role of owner of a vehicle or damaged property, driver of a vehicle, passenger of a vehicle)
 
-    * Parties
+    * Involved parties that are organizations (owner of a vehicle or damaged property such as a bicycle or structure) 
 
-    * Non-Involved Claimants
-
-    * Witnesses
+    * Non-involved parties (witness, legal counsel, etc) 
 
  	After confirming your choices, click **Submit**.
-
-* If you are completing this form for:
-
-    * Drivers
-
-    * Passengers
-
-    * Pedestrians
-
-    * Bicyclists
 
 	Continue entering information in the following sections:
 
 ## License Information
 
-1. In the License Number text box, type the individual's state-issued driver’s license. 
+This applies only to involved parties that are Individuals
 
-2. Click in the License State box and type the license state of issue using the two-digit abbreviation. You can also select the state from the drop-down list.  
+1. In the **Drivers License** box, type the individual's state-issued driver’s license ID. 
+
+2. In the **License State** box, type the license state of issue using the two-digit abbreviation. You can also select the state postal code from the dropdown list.  
 
 ## Associated Parties
 
-Use this section of the screen to add individuals and organizations who are connected to the party such as an attorney, insurance agent or some other contact to be recorded in association with the loss.  
+Use this section of the screen to add individuals and organizations who are connected to losses such as attorneys, insurance agents or other contacts to be recorded in association with the loss.  
 
-1. Click **+ ****Add Associated Parties**
+1. Click **+ ****Add Associated Party.**
 
-2. From the **Association Type** drop-down list, select an association. **Note:** Lists may vary as this field is configurable.
+2. From the **Association Type** dropdown list, select an association. Note that the list you see may differ—these options are configurable.   
 
     * Insurance Carrier
 
@@ -144,11 +146,11 @@ Use this section of the screen to add individuals and organizations who are conn
 
     * Other
 
-3. In the **Association Parties** drop-down list: 
+3. In the **Association Parties** dropdown list, choose from the following options: 
 
-    * Select an individual that exists in the system from the names available, or
+    * Select an individual already associated with the loss. 
 
-    * Click the **Add Party** option.  
+    * Click **Add Party** to add a new party to the loss.   
 
 ## Injury Information
 
@@ -160,7 +162,7 @@ Use this section of the screen to identify whether this particular individual ha
 
 * No -  When you click No, no further information is needed on this screen.
 
-* Unknown - When you click Unknown, the system keeps track of this status. 
+* Unknown - When you click Unknown, BriteCore  keeps track of this status and no further information is needed on this screen. 
 
 ## Submit
 
