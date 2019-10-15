@@ -34,7 +34,7 @@ This is a required field.
 
 This is a required field. 
 
-4. In the **Did the loss occur at the insured residence****?** dropdown list, indicate if the residence of the insured was the actual loss site.
+4. In the **Did the loss occur at the insured residence?** dropdown list, indicate if the residence of the insured was the actual loss site.
 
 This is a required field. 
 
