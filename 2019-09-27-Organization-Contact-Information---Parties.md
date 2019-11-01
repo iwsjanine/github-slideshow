@@ -8,7 +8,7 @@ published: true
 ---
 # Add organization parties to a claim
 
-Organization contacts are entities that can be the owner or insured of a vehicle involved in the accident, or the owner of a claimant vehicle or damaged property.  In addition, organizations can be an associated party of an involved party such as an attorney representing a claimant.  
+Organization contacts are entities that can be the owner of an insured or claimant  vehicle involved in the accident, or the owner of damaged property.  In addition, organizations can be an associated party of an involved party such as an attorney representing a claimant.  
 
 Organizations can be added during FNOL or even after FNOL submission. Use the information in this section as a guide when adding organizations associated with a claim. 
 
@@ -36,17 +36,15 @@ To add an organization from the **Add an Organization** dialog, complete the sec
 
 2. In the **Address Line 1** box, type the organization's street address or the first line of a multiline address.
 
-3. In the **Address Line 2 (Optional)** box, type the second line in a multiline address. 
+3. In the **Address Line 2 (Optional) **box, type the second line in a multiline address. 
 
 4. In the **Country** dropdown list, select the country of the organization's physical location or mailing address. 
 
-5. In the **Zip** box, type the five- or nine-digit zip code for the organization. Claims validates the address and populates the city and state.
-
-Click the **+ Add Another Address** link to add additional addresses and repeat Steps 1-5. 
+5. In the **Zip** box, type the five- or nine-digit zip code for the organization. Claims validates the address and populates the city and state.Click the **+ Add Another Address** link to add additional addresses and repeat Steps 1-5. 
 
 ## Phone
 
-1. To add a phone number, click the** + **Add Phone Number** link. 
+1. To add a phone number, click the** + ****Add Phone Number** link. 
 
 2. In the international prefix dropdown list, select a prefix. The default is USA.
 
@@ -64,11 +62,9 @@ Click the **+ Add Another Address** link to add additional addresses and repeat 
 
 5. To add another phone number, click the **+ Add Another Phone Number** link, and repeat steps 2-4.
 
-6. To delete a phone number, click **X Remove**.
+6. To delete a phone number, click** X Remove**.
 
-
-
- 
+ 
 
 ## Email
 
@@ -86,14 +82,15 @@ Click the **+ Add Another Address** link to add additional addresses and repeat 
 
     * Other
 
-4. To add another email address, click the **+ Add Another Email Address** link, and repeat steps 2 and 3. 
-**Note:** Email addresses will show as Email, Second Email, Third Email, up to 99 email addresses.
+4. To add another email address, click the **+ Add Another ****Email**** Address** link, and repeat steps 2 and 3. **Note: **Email addresses will show as Email, Second Email, Third Email, up to 99 email addresses.
 
 5. To remove an email address, click **x Remove**.
 
 ## Reference number and primary contact information
 
 This section of the form refers to claimant's insurance information. 
+
+Note: The information recorded in this section is used only for third-party claimants that are organizations. This information is not stored in the Britecore Contacts module. 
 
 1. In the **Reference Number/Claim Number** box, type the reference number or claim number of the claimant's insurance company. 
 
