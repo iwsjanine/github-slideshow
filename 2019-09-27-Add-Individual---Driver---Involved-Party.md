@@ -8,13 +8,13 @@ published: true
 ---
 # Add driver, involved and non-involved, individual / passenger
 
-The forms for adding involved and non-involved parties during FNOL are mostly the same and with only a few different fields. Individuals include the varied participants and involved parties in a claim such as:
+The forms for adding involved and non-involved parties during FNOL are similar  with only a few different fields. Individuals (as opposed to organizations) in a claim include:
 
 * Drivers of vehicles involved in accidents (individuals only).
 
-* Passengers of vehicles involved in accidents that may eventually become claimants with exposures associated to them (individuals only). 
+* Passengers of vehicles involved in accidents with associated exposures (individuals only). 
 
-* Pedestrians or bicyclists who are injured or have damaged property, such as a bicycle, (individuals only).
+* Pedestrians or bicyclists who are injured and/or have damaged property, such as a bicycle, (individuals only).
 
 * Witnesses that may have observed accidents, but did not incur any injury or loss (non-involved parties, individuals only). 
 
@@ -22,12 +22,17 @@ The forms for adding involved and non-involved parties during FNOL are mostly th
 
 The form to add individuals in the above associations with a claim are nearly identical with the exception of their relationship to the loss. BriteCore Claims tracks the relationship within the system. This documentation topic provides a single set of instructions to help you complete the individual party forms. 
 
-When an involved party is a primary or named insured on the policy, information automatically populates to the individual-involved party form. Information coming from the policy is not editable and appears as grayed out text.  When an involved party provides a different address, phone number, or email address than that originating from the policy, then you can add one or more additional addresses, phone numbers, or email addresses. 
+**When an involved party is a primary or named insured** on the policy, information automatically populates to the individual-involved party form. Its information comes from insured contact records linked to the policy. The Information coming from the contact record  is not editable and appears as grayed-out text. It originates in the Contacts module and is shared across multiple BriteCore modules. 
+
+While it is possible to edit Contacts records, it may require different permissions to look up and edit insureds' contact records. When involved parties provide addresses, phone numbers, or email addresses other than what displays, adjusters can add additional instances as needed. 
+
+**Note**: Additional information added to claims party records is claim-file specific and viewable only in party records in claims.
+
+**When an involved party is a third-party claimant** (not a named insured) the adjuster will enter the name, address, phone, and email address information for the first time.  We do not force a search prior to adding 3rd party claimants, however, there will be an optional claims setting that will enable a feature to automatically lookup contacts by SSN, and if there is an SSN entered during FNOL and the system finds a match, allow the adjuster to prefill the involved party record with the information from the existing contact record.  If no match on SSN is found the information entered in the involved party form will create a new contact record in the Contacts module, and post FNOL this contact will be displayed on the Parties Tab of the claim file.  
 
 ## Basic Information
 
-1. In the **Full Name** box, enter the name of the individual you are adding. 
-This is a required field.
+1. In the **Full Name** box, enter the name of the individual you are adding. This is a required field.
 
 2. In the **Date of Birth** box, type the date in MM/DD/YYYY format, or use the date picker to locate the date of birth.
 
@@ -55,11 +60,11 @@ This is a required field.
 
 6. To add another address:
 
-    * Click **Add Another Address** and repeat steps 1-5.
+    * Click **+ ****Add Another Address**** **and repeat steps 1-5.
 
 ## Phone
 
-1. To add a phone number, click **Add Phone Number**.  
+1. To add a phone number, click **+** **Add Phone Number**.  
 
 2. In the international prefix dropdown list, select a prefix. The default is USA.
 
@@ -81,7 +86,7 @@ This is a required field.
 
 ## Email
 
-1. To add an email address, click **+ Add Email**.
+1. To add an email address, click **+ ****Add Email**.
 
 2. In the **Email** box, type the individual's email address.
 
@@ -95,9 +100,9 @@ This is a required field.
 
     * Other 
 
-4. To add another email address, click **+ Add Another Email** Address** and repeat steps 2 and 3.
+4. To add another email address, click **+ ****Add Another Email**** Address** and repeat steps 2 and 3.
 
-5. To remove an email address, click **X Remove**.
+5. To remove an email address, click ** X** **Remove**.
 
 ## Submit
 
@@ -125,9 +130,9 @@ This applies only to involved parties that are Individuals
 
 Use this section of the screen to add individuals and organizations who are connected to losses such as attorneys, insurance agents or other contacts to be recorded in association with the loss.  
 
-1. Click **+ Add Associated Party.**
+1. Click **+ ****Add Associated Party.**
 
-2. From the **Association Type** dropdown list, select an association. Note that the list you see may differ—these options are configurable.   
+2. From the **Association Type** dropdown list, select an association. Note that the list you see may differ—these options are configurable.   
 
     * Insurance Carrier
 
@@ -155,19 +160,17 @@ Use this section of the screen to add individuals and organizations who are conn
 
 ## Injury Information
 
-Use this section of the screen to identify whether this particular individual has been injured. 
+Use this section of the screen to identify whether this particular individual has been injured. This is a required field.
 
-This is a required field.
+1. In the **Was the party injured **section, select from one of the following responses:
 
-1. In the **Was the party injured **section**, select from one of the following responses:
+* Yes - When you click Yes and click **Continue**, the [Injury Information ](https://docs.google.com/document/d/1K6dABwy5pYyo_o-wOk5Fave3W9ksfYEfbpowmcnvIy8/edit)screen appears. 
 
-    * Yes - When you click Yes and click **Continue**, the [Injury Information ](https://docs.google.com/document/d/1K6dABwy5pYyo_o-wOk5Fave3W9ksfYEfbpowmcnvIy8/edit)screen appears. 
+* No -  When you click No, no further information is needed on this screen.
 
-    * No -  When you click No, no further information is needed on this screen.
-
-    * Unknown - When you click Unknown, BriteCore  keeps track of this status and no further information is needed on this screen. 
+* Unknown - When you click Unknown, BriteCore  keeps track of this status and no further information is needed on this screen. 
 
 ## Submit
 
-    * After confirming your choices, click **Submit**.
+* After confirming your choices, click **Submit**.
 
