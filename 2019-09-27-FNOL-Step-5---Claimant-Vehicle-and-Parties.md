@@ -8,9 +8,9 @@ published: true
 ---
 # FNOL step 5 - adding claimant vehicle and parties
 
-This **Claimant Vehicle and Parties** phase of the FNOL creation process involves recording claimants and vehicles and how they were impacted during the loss incident. 
+This **Claimant Vehicle and Parties **phase of the FNOL creation process involves recording claimants and vehicles and how they were impacted during the loss incident. 
 
-When you click **Continue** on the **Insured Vehicle Details** screen, you will automatically be directed to the **Claimant Vehicle and Parties** screen. You can also access the **Claimant Vehicle and Parties** screen by selecting the FNOL Draft from the File a Claim screen if you completed the prior screen before exiting.
+When you click **Continue** on the **Insured Vehicle Details** screen, you will automatically be directed to the **Claimant Vehicle and Parties** screen. If you exit the FNOL wizard before going to Step 2, you can re-enter the FNOL from the FNOL list on the **File a Claim** screen.
 
 ## Claimant vehicles and occupants flow
 
@@ -18,9 +18,9 @@ Click the **+ Add Claimant Vehicle and Occupants** button, and the **Add Claiman
 
 ### Driver
 
-In the **Driver** dropdown list, the following selections are available.
+In the **Driver **dropdown list, the following selections are available.
 
-* When you select  **Add Driver**, the **Add Driver** dialog will appear. Follow the instructions in the [Add driver / add involved and non involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* When you select  **Add Driver, **the** Add Driver** dialog will appear. Follow the instructions in the [Add driver / add involved and non involved party / add individual / add passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 * None
 
@@ -44,7 +44,7 @@ In the **Owner** dropdown list, the following selections are available.
 
 ### Add claimant vehicle information
 
-1. In the **Vehicle Type** dropdown list, select a type:
+1. In the **Vehicle**** Type** dropdown list, select a type:
 
     * Antique Auto
 
@@ -76,7 +76,7 @@ In the **Owner** dropdown list, the following selections are available.
 
 1. In the **Insurance Carrier** box, type the name of the carrier that insures the vehicle. 
 
-2. In the **Policy Number** box, type the policy number of the vehicle.
+2. In the **Policy Number **box, type the policy number of the vehicle.
 
 3. In the **Claim Number** box, type the claim number assigned by the vehicle's insurance carrier. 
 
@@ -96,7 +96,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
 * No - When you click No, the following fields are populated with Unknown:	
 
-    * **Is the vehicle drivable ?**
+    * **Is the vehicle drivable ? **
 
     * **Was the vehicle towed from the scene ?**
 
@@ -118,8 +118,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
     * No
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
@@ -129,15 +128,13 @@ Use the instructions in this section to complete the **Damage Details** section.
 
     * No
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1. 
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1. 
 
 * This is a required field. 
 
-3. In the **Vehicle current location** text box, type the location of the vehicle. For example, a repair shop or residence.
- 
+3. In the **Vehicle current location** text box, type the location of the vehicle. For example, a repair shop or residence. 
 
-4. In the **First point of impact** dropdown list, select one of the values from the list. 
+4. In the **First point of impact** dropdown list, select one of the values from the list. **Note:** Lists will vary, as this field is configurable.
 
     * Front End
 
@@ -165,13 +162,11 @@ Use the instructions in this section to complete the **Damage Details** section.
 
     * Roll Over
 
-    * Unknown
-**Note**: This is automatically selected when you choose No in Question 1.
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1.
 
-    * Other
+    * Other
 
-
-5. In the **Damage Location(s)** dropdown list, select one of the values from the list. 
+5. In the **Damage**** Location(s) **dropdown list, select one or more   values from the list. 
 
     * Front End
 
@@ -217,7 +212,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
     * Severe
 
-    * Unknown
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1.
 
 7. In the **Airbag deployed** section, select one answer:
 
@@ -225,7 +220,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
     * No
 
-    * Unknown
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1.
 
 8. In the **Was there a car seat involved** section, select one answer:
 
@@ -233,9 +228,9 @@ Use the instructions in this section to complete the **Damage Details** section.
 
     * No
 
-    * Unknown
+    * Unknown**Note**: This is automatically selected when you choose No in Question 1.
 
-9. In the **Please describe any pre-existing damage** box, describe damage to the vehicle that predates the accident. 
+9. In the **Please describe any pre-existing damage **text box, describe damage to the vehicle that predates the accident. 
 
 10. In the **Please describe any damaged items within the vehicle** text box, describe damage to any contents within the vehicle.
 
@@ -243,9 +238,9 @@ Use the instructions in this section to complete the **Damage Details** section.
 
 * Click **Submit** to complete the Claimant Vehicles and Occupants dialog.
 
-## Pedestrians and cyclists
+## Pedestrians and Cyclists
 
-* If there were pedestrians or cyclists involved in the loss event, click the **+Add Pedestrian or Cyclist** button to open the **Add Pedestrian or Cyclist** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* If there were pedestrians or cyclists involved in the loss event, click the **+ ****Add Pedestrian or Cyclist** button to open the **Add Pedestrian or Cyclist** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 ### Submit
 
@@ -253,7 +248,7 @@ Use the instructions in this section to complete the **Damage Details** section.
 
 ## Witnesses
 
-* If there were witnesses to the loss event, click the **+Add Witnesses** button to open the **Add Witnesses** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
+* If there were witnesses to the loss event, click the **+ ****Add Witnesses** button to open the **Add Witnesses** dialog. Follow the instructions in the [Add Driver / Add Involved and Non Involved Party / Add Individual / Add Passenger](https://docs.google.com/document/d/1D9Evh0Kghv1T8go24ejTslyhHSOLATKx2wK2DxftdrA/edit#heading=h.xxnfnds39943) topic.
 
 ### Submit
 
