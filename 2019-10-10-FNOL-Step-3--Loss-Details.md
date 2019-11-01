@@ -10,11 +10,11 @@ published: true
 
  The **Loss Details** screen allows users to add detailed information to the data already recorded. 
 
-If you click **Continue** on the **Reported By** screen, you will automatically be directed to the **Loss Details** screen. You can also access the **Loss Details** screen by selecting an FNOL draft from the File a Claim screen when you have completed the prior screen before exiting the incomplete FNOL.
+If you click **Continue** on the **Reported By** screen, you will automatically be directed to the **Loss Details** screen. If you exit the FNOL wizard before going to Step 2, you can re-enter the FNOL from the FNOL list on the **File a Claim** screen.incomplete FNOL.
 
-1. Review **Date of Loss, Time of Loss**, and **Loss Category** to ensure the values are correct. Adjust the values if there are any errors.
+1. Review **Date of Loss, Time of Loss, **and **Loss Category** to ensure the values are correct. Adjust the values if there are any errors.
 
-This is a required field. 
+These are required fields. 
 
 2. In the **Loss Description** box, type detailed description or facts that help illustrate the loss more fully.
 
@@ -34,7 +34,7 @@ This is a required field.
 
 This is a required field. 
 
-4. In the **Did the loss occur at the insured residence?** dropdown list, indicate if the residence of the insured was the actual loss site.
+4. In the **Did ****the**** loss occur at the insured residence****?** dropdown list, indicate if the residence of the insured was the actual loss site.
 
 This is a required field. 
 
