@@ -10,7 +10,7 @@ published: true
 
 Use these instructions to complete injury information for individuals injured during the loss. 
 
-1. In the **Injury ****Type** dropdown list, select the type of injury:
+1. In the **Injury Type** dropdown list, select the type of injury:
 
     * Strain/Sprain-Soft Tissue
 
