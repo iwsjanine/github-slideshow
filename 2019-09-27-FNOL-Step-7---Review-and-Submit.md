@@ -12,8 +12,6 @@ Once you reach FNOL Step 7, the information you have collected should be complet
 
 If you click **Continue** on the Damaged Property screen, you will automatically be directed to the Review and Submit screen. You can also access the Review and Submit screen by selecting the FNOL Draft from the File a Claim screen if you completed the prior screen before exiting.
 
-![image alt text]({{ site.url }}/public/qDPRVrMEMyX3Yteqd5zAlQ_img_0.png)
-
 * Each of the steps where you entered information is available for review. You can use the **+ Expand All** and **- Collapse All** controls to open or close all the sections simultaneously.
 
 * To review each section individually, click the expand icon ![image alt text]({{ site.url }}/public/qDPRVrMEMyX3Yteqd5zAlQ_img_1.png)to open the section for review.
