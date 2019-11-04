@@ -14,7 +14,7 @@ If you click **Continue** on the Damaged Property screen, you will automatically
 
 * Each of the steps where you entered information is available for review. You can use the **+ Expand All** and **- Collapse All** controls to open or close all the sections simultaneously.
 
-* To review each section individually, click the expand icon ![image alt text]({{ site.url }}/public/qDPRVrMEMyX3Yteqd5zAlQ_img_1.png)to open the section for review.
+* To review each section individually, click the expand icon to open the section for review.
 
 * Vehicles and parties appear as links that you can click to return to the original form where you can make changes. 
 
