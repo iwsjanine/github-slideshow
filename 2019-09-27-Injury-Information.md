@@ -10,7 +10,7 @@ published: true
 
 Use these instructions to complete injury information for individuals injured during the loss. 
 
-1. In the **Injury Type** dropdown list, select the type of injury:
+1. In the **Injury ****Type** dropdown list, select the type of injury:
 
     * Strain/Sprain-Soft Tissue
 
@@ -32,7 +32,7 @@ Use these instructions to complete injury information for individuals injured du
 
 This is a required field. 
 
-2. In the **Body Part Injured** drop-down list, select a body part:
+2. In the **Body Part Injured **dropdown list, select a body part:
 
     * Neck/Back
 
@@ -64,7 +64,7 @@ This is a required field.
 
 	This is a required field. 
 
-4. In the **Was the party transported to the hospital from the scene ?** section, select an answer:
+4. In the **Was the party transported to the hospital from the scene ? **section, select an answer:
 
     * Yes
 
